@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/christianemoraissilva/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex
+            dex="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-c403de9a1f9c2d966fd8f0613a4b134d7a31a884.jar"/>
+    </item>
+    <item
+        jar="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex
+            dex="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-4f97da888847d85f40b4b0eb21565989781c819b.jar"/>
+    </item>
+    <item
+        jar="/Users/christianemoraissilva/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/glide-3.5.2-671e80df34a3ff5f4889c1769c203910157015f5.jar" />
+    </item>
+    <item
+        jar="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex
+            dex="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-21bcb04146e5210c9d75374809fdb865029d48e6.jar"/>
+    </item>
+    <item
+        jar="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e47268e271ff279aca3dfdd62587b8c90b6da14">
+        <dex
+            dex="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-079e56c1d3667ad0bc3cf0d5e51ab2a26ad31235.jar"/>
+    </item>
+    <item
+        jar="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex
+            dex="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-e1ad7580b6f0c613f57ef2707a20753d47b366be.jar"/>
+    </item>
+    <item
+        jar="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex
+            dex="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-e2d56fc2434a84a0e40a9c2d97256e39e16ca495.jar"/>
+    </item>
+    <item
+        jar="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex
+            dex="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-2eb3b5e13bb5ac6828a9e0cebf52859b7fb683d6.jar"/>
+    </item>
+    <item
+        jar="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex
+            dex="/Users/christianemoraissilva/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-dfce1f424d3214c5a9966d7416655208419b814e.jar"/>
+    </item>
+
+</items>
