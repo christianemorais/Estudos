@@ -11,7 +11,8 @@
         android:layout_alignParentTop="true"
         android:background="?attr/colorPrimary"
         android:elevation="@dimen/appbar_elevation"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        tools:ignore="UnusedAttribute">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
@@ -19,7 +20,8 @@
             android:layout_height="?attr/actionBarSize"
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
-            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            tools:ignore="RtlHardcoded"/>
 
         <!-- These FrameLayouts are only there to line the image up with the keyline correctly, since
              we cannot do addition of dimensions/attributes otherwise -->
@@ -60,7 +62,10 @@
         android:layout_alignParentStart="true"
         android:layout_alignRight="@id/layout_center"
         android:layout_below="@id/appbar"
-        tools:layout="@android:layout/list_content"/>
+        tools:layout="@android:layout/list_content"
+        android:choiceMode="singleChoice"
+        app:autoSelectView="true"
+        />
 
     <android.support.v7.widget.Space
         android:id="@+id/cardviewAligner"
@@ -89,6 +94,7 @@
         android:layout_marginRight="@dimen/abc_list_item_padding_horizontal_material"
         app:cardElevation="@dimen/detail_card_elevation"
         app:cardPreventCornerOverlap="false"
+
         />
 
 </RelativeLayout>

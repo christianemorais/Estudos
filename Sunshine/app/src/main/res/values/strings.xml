@@ -110,8 +110,8 @@
     <string name="format_humidity"><xliff:g id="humidity">%1.0f</xliff:g> %%</string>
 
     <!-- SyncAdapter related -->
-    <string name="sync_account_type">sunshine.example.com</string>
-    <string name="content_authority">com.example.android.sunshine.app</string>
+    <string name="sync_account_type">sunshine.chrismorais.com</string>
+    <string name="content_authority">com.chrismorais.android.sunshine.app</string>
 
     <!-- Notification Format -->
     <string name="format_notification">Forecast: <xliff:g id="condition">%1$s</xliff:g> High: <xliff:g id="high">%2$s</xliff:g> Low: <xliff:g id="low">%3$s</xliff:g></string>
@@ -213,5 +213,6 @@
 
     <!-- Value in SharedPreferences for cute dogs art pack  option [CHAR LIMIT=NONE] -->
     <string name="pref_art_pack_cute_dogs" translatable="false">https://raw.githubusercontent.com/udacity/Sunshine-Version-2/sunshine_master/app/src/main/res/drawable-mdpi/art_%s.png</string>
+    <string name="project_number">318697903911</string>
 
 </resources>

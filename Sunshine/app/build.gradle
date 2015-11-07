@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 21
+    compileSdkVersion 23
     buildToolsVersion "21.1.2"
 
     defaultConfig {
         applicationId "com.chrismorais.android.sunshine.app"
-        minSdkVersion 10
-        targetSdkVersion 22
+        minSdkVersion 11
+        targetSdkVersion 23
         versionCode 1
         versionName "1.0"
     }
@@ -27,4 +27,5 @@ dependencies {
     compile 'com.google.android.gms:play-services-gcm:7.5.0'
     compile 'com.android.support:gridlayout-v7:22.2.1'
     compile 'com.android.support:cardview-v7:22.2.1'
+    compile 'com.android.support:recyclerview-v7:22.1.1'
 }
